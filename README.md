@@ -44,3 +44,46 @@ Can you help me?
 
 
 ![image](https://github.com/user-attachments/assets/450303d5-fc75-4f79-892f-e06c155ecba0)
+
+
+Choose Save intent.
+Choose Build.
+
+
+![image](https://github.com/user-attachments/assets/090c791e-498d-4a2a-b601-67f1533228af)
+
+
+
+
+![image](https://github.com/user-attachments/assets/273f76c7-2f60-4932-b42b-7460009fa4a5)
+
+
+
+## 🤚 Step #3: Manage FallbackIntent
+
+
+![image](https://github.com/user-attachments/assets/f6c226e4-53f2-470c-bfb0-e7728bdcedce)
+
+
+Scroll down to Closing responses.
+Expand the speech bubble for Response sent to the user after the intent is fulfilled
+In the Message field add the following text:‍
+Sorry I am having trouble understanding. Can you describe what you'd like to do in a few words? I can help you find your account balance, transfer funds and make a payment.
+
+![image](https://github.com/user-attachments/assets/16218d60-45f9-422a-ac79-bd7644cd18a4)
+
+
+Choose Save intent.
+Choose Build - time for another stretch!
+Choose Test.
+Let's test 2-3 message that failed in your last try - what do you see now?
+
+![image](https://github.com/user-attachments/assets/233615d3-60e0-404c-831a-ea7f4ba87f44)
+
+
+
+## 🗑️ Step #4: Clean up resources, Remove the BankerBot
+
+
+![image](https://github.com/user-attachments/assets/3da96911-5b30-4075-8d7e-1d114fc6edbf)
+
