@@ -19,14 +19,15 @@ I've create a practical chatbot, BankerBot, that can help your imaginary bank's 
 ## 💬 Step #2: Create your First Intent
 
 Let's change the name! Under Intent details, enter WelcomeIntent under Intent name.
+
 Add the description Welcoming a user when they say hello.
 
 
 ![image](https://github.com/user-attachments/assets/4d8aa2d6-54a5-4499-9771-c8ef28901fe5)
 
 
-Scroll down to the Sample utterances panel.
-Click the Plain text button.
+1. Scroll down to the Sample utterances panel.
+2. Click the Plain text button.
 
 
 ![image](https://github.com/user-attachments/assets/f7707fc3-05d8-4869-9afa-4e6f7fc650ee)
@@ -34,9 +35,12 @@ Click the Plain text button.
 
 
 Copy the text below, which represent the user inputs (called utterances) that will trigger this intent, and paste it into the text window:
-Hi
-Hello
-I need help
+Hi.
+
+Hello.
+
+I need help.
+
 Can you help me?
 
 
@@ -73,10 +77,10 @@ Sorry I am having trouble understanding. Can you describe what you'd like to do 
 ![image](https://github.com/user-attachments/assets/16218d60-45f9-422a-ac79-bd7644cd18a4)
 
 
-Choose Save intent.
-Choose Build - time for another stretch!
-Choose Test.
-Let's test 2-3 message that failed in your last try - what do you see now?
+1. Save intent
+2. Choose Build - time for another stretch!
+3. Choose Test.
+4. Let's test 2-3 message that failed in your last try - what do you see now?
 
 ![image](https://github.com/user-attachments/assets/233615d3-60e0-404c-831a-ea7f4ba87f44)
 
